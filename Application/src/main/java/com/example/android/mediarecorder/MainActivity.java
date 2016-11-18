@@ -104,7 +104,7 @@ public class MainActivity extends Activity {
             running = true;
             while (running) {
                 try {
-                    udp.send("!PING!");
+                    udp.send("!PINGhelloWorld!");
                     Log.v(TAG, "ping sended ....");
                     sleep(500);
                 } catch (Exception e) {
