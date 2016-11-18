@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="61381606556a31576d16174e460914bd2764cdfd">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_65a10a9df32e2852e1182c3d51ee6f98ed959c56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_cfbb6172a9e252b00beb304cab90b7a1486cf37e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_4a746ab0ef1d738e2ee755406823949772b0c8a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_a4f45da3d01c3eb7ee72e5a9ec835283016c7099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_01b4a39afb4222cc1fb84f0f302cfd4ab40a3d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_47647b4ed497b0a50e8dbed781e7a101c372dddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_eaca0fffb37de888507fe89db52d5332d48241be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ac32e882732da2d184bb90ccb26633c835079ad">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_173472ba81cc0226ea6c629d189fbb5c409ef9d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_e9cb564ae273cf46d17147e57fb3aa99b5a214ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f0565d4e0bae0d491391eb44c0abf56fb07a5ca5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Dmitry Terekhov\Desktop\testPut\android-MediaRecorder-master\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_52c95902ca22e539a83a0d3ecf12b1599a80fe39\classes.dex" />
+    </item>
+
+</items>

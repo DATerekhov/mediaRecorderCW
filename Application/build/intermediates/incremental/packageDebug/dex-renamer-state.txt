@@ -1,0 +1,7 @@
+#Fri Nov 18 19:46:46 MSK 2016
+base.0=C\:\\Users\\Dmitry Terekhov\\Desktop\\testPut\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_173472ba81cc0226ea6c629d189fbb5c409ef9d8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Dmitry Terekhov\\Desktop\\testPut\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65a10a9df32e2852e1182c3d51ee6f98ed959c56\\classes.dex
+base.1=C\:\\Users\\Dmitry Terekhov\\Desktop\\testPut\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_65a10a9df32e2852e1182c3d51ee6f98ed959c56
+file.0=C\:\\Users\\Dmitry Terekhov\\Desktop\\testPut\\android-MediaRecorder-master\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_173472ba81cc0226ea6c629d189fbb5c409ef9d8\\classes.dex
